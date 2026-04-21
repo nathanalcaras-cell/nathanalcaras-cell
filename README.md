@@ -1,4 +1,4 @@
-# ??? NATHAN ALCARAS | CEO @ FOURCODERS ??
+# 🕷️ NATHAN ALCARAS | CEO @ FOURCODERS 🦦
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nathanalcaras-cell&theme=radical&no-frame=true&column=7" alt="trophies" />
@@ -18,24 +18,24 @@
           \                /
            -..______..--'
 `
-> **SYSTEM STATUS:** ONLINE ?? | **AUTHORITY:** CEO & FOUNDER
+> **SYSTEM STATUS:** ONLINE 🟢 | **AUTHORITY:** CEO & FOUNDER
 > **ACTIVE OPERATION:** [FOURCODERS.COM](https://fourcoders.com)
 
 ---
 
-### ??? TERMINAL OUTPUT: /IDENTITY
+### 🖥️ TERMINAL OUTPUT: /IDENTITY
 `ash
 $ whoami
-> Nathan Alcaras: Vision�rio, Arquiteto de Sistemas e Estrategista de IA.
+> Nathan Alcaras: Visionário, Arquiteto de Sistemas e Estrategista de IA.
 $ partners
 > Pedro Sampaio (Co-founder / Tech Partner)
 $ mindset
-> "Say hello to my little agents!" ????
+> "Say hello to my little agents!" 🤖💨
 `
 
 ---
 
-### ?? PERFORMANCE DASHBOARD
+### 📈 PERFORMANCE DASHBOARD
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathanalcaras-cell&theme=radical" alt="streak" />
 </p>
